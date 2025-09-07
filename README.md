@@ -3,8 +3,7 @@ A library for adding configurable Enum-type objects to python!
 
 If you have any issues or suggestions go to the github issues page and raise one! If you have any ideas the are very much welcome :D
 
-PyPi: https://pypi.org/project/Pynums/
-Github: https://github.com/Ninesideddevelopment/Pynums
+PyPi: https://pypi.org/project/Pynums/ | Github: https://github.com/Ninesideddevelopment/Pynums
 
 ## How to create Enums:
     from Pynums import Enum
