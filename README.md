@@ -1,7 +1,7 @@
 # Pynums
 A library for adding configurable Enum-type objects to python!
 
-If you have any issues or suggestions go to the github issues page and raise one! If you have any ideas the are welcome!
+If you have any issues or suggestions go to the github issues page and raise one! If you have any ideas the are very much welcome :D
 
 ## How to create Enums:
     from Pynums import Enum
