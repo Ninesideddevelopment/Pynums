@@ -12,4 +12,4 @@ Output:
 
     hello world
 
-Enums can have a configureable amount of arguments.
+Enums can also be created like this, allowing for a set amount of arguments:
