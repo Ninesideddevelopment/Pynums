@@ -11,3 +11,5 @@ A library for adding configurable Enum-type objects to python!
 Output:
 
     hello world
+
+Enums can have a configureable amount of arguments.
