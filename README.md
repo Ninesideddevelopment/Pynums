@@ -12,7 +12,7 @@ Output:
 
     hello world
 
-Enums can also be created like this, allowing for a set amount of arguments:
+Enums can also be created like this, allowing for more specific arguments:
 
     from Pynums import Enum
     
