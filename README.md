@@ -13,3 +13,18 @@ Output:
     hello world
 
 Enums can also be created like this, allowing for a set amount of arguments:
+
+    from Pynums import Enum
+    
+    class MyEnum1(Enum):
+        def __init__(self, requiredarg, **kwargs):
+            self.requiredarg = requiredarg
+            super().__init__(**kwargs) # **kwargs are here so that you can add required arguments, as well as any other arguments you may want per Enum.
+    
+    myenum = MyEnum1(requiredarg="hello", otherarg="world") # Note that "otherarg" will not have any auto-completion as it is created at runtime.
+    
+    print(myenum.requiredarg, myenum.otherarg)
+
+Output:
+
+    hello world
