@@ -9,9 +9,8 @@ PyPi: https://pypi.org/project/Pynums/ | Github: https://github.com/Ninesideddev
 ## How to create Enums:
     from Pynums import Enum
     
-    MyEnum1 = Enum(arg1="hello world")
-    
-    print(MyEnum1.arg1)
+    MyEnum1 = Enum()
+    MyEnum2 = Enum()
     
 Output:
 
