@@ -1,6 +1,6 @@
 # Pynums
 A library for adding configurable Enum-type objects to python!
-I do understand that these aren't exactly Enums, but they work as them all the same :D
+I do understand that these aren't exactly Enums, but they work as them all the same :D, also Enum arguments are locked after creation so they cannot be changed.
 
 If you have any issues or suggestions go to the github issues page and raise one! If you have any ideas the are very much welcome :D
 
